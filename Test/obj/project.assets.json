@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alina\\source\\repos\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Alina\\source\\repos\\MyTest\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Alina\\source\\repos\\Test\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\Alina\\source\\repos\\MyTest\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Alina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alina\\source\\repos\\Test\\Test\\obj\\",
+      "outputPath": "C:\\Users\\Alina\\source\\repos\\MyTest\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alina\\AppData\\Roaming\\NuGet\\NuGet.Config",
